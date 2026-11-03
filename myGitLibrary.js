@@ -4,5 +4,9 @@
     },
     logHello: function() {
         return "Hello from My Personal controlled AI !!!";
+    },
+    myRec : function(rec) {
+        return rec;
     }
+
 })
